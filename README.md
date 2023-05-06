@@ -33,4 +33,5 @@ Create a Spring Boot Entity for a post Type that includes the following propetie
 编写一个 CommandLinerRunner bean，使用 PostRepository 插入一个单独的“Post”
 
 ### 聊天全栈开发教程
-https://img-blog.csdnimg.cn/938024404761411da4ada5b0dd57236d.png
+! [alt 属性文本] (https://img-blog.csdnimg.cn/938024404761411da4ada5b0dd57236d.png)
+
